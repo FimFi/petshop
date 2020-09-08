@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Petshop2020.Infrastructure.Static.Data/1.0.0": {
+        "dependencies": {
+          "Petshop2020.Core": "1.0.0",
+          "Petshop2020.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Petshop2020.Infrastructure.Static.Data.dll": {}
+        }
+      },
+      "Petshop2020.Core/1.0.0": {
+        "dependencies": {
+          "Petshop2020.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Petshop2020.Core.dll": {}
+        }
+      },
+      "Petshop2020.Core.Entity/1.0.0": {
+        "runtime": {
+          "Petshop2020.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petshop2020.Infrastructure.Static.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Petshop2020.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Petshop2020.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

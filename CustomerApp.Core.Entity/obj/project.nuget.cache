@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vmFijtb/oN8HUtc9KES2AHwGFJu2kbdyIYvBfy7Z+7ObmW2eja3xVP/f6XkBRwIRLka24juI7d3/ubrSer9Tw==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Petshop\\Petshop\\CustomerApp.Core.Entity\\Petshop2020.Core.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lille\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lille\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
